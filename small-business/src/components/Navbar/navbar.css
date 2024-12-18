@@ -1,0 +1,23 @@
+nav {
+    background-color: #212529;
+
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    color: white;
+
+}
+
+nav ul {
+    display: flex;
+    gap: 2rem;
+
+}
+
+nav ul li {
+    list-style-type: none;
+}

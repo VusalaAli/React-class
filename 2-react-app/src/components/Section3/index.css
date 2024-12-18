@@ -1,0 +1,7 @@
+.third{
+    background-color: rgb(81, 171, 250);
+    padding: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

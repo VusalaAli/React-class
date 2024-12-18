@@ -1,0 +1,14 @@
+.navbar{
+    background-color: rgb(117, 117, 186);
+    padding: 1rem;
+}
+.navbar ul li{
+    list-style-type: none;
+    color: white;
+}
+.navbar ul{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+}
