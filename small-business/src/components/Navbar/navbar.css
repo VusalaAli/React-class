@@ -1,7 +1,7 @@
-nav {
+/* nav {
     background-color: #212529;
 
-}
+} */
 
 .nav {
     display: flex;
@@ -12,11 +12,11 @@ nav {
 
 }
 
-nav ul {
+/* nav ul {
     display: flex;
     gap: 2rem;
 
-}
+} */
 
 nav ul li {
     list-style-type: none;
