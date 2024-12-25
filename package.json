@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-loading-indicators": "^1.0.0"
+  },
+  "devDependencies": {
+    "react-router-dom": "^7.1.1"
+  }
+}
