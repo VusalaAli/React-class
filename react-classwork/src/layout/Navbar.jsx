@@ -2,17 +2,16 @@ import React from 'react'
 import { NavLink } from "react-router-dom";
 const Navbar = () => {
   return (
-    <>
-    <nav>
+    <header style={{height:"72px"}}>
+    <nav style={
+      {position:"fixed",top:"0",left:"0",height:"72px"}
+    }>
         <ul>
         <li>
             <NavLink to="/">Home</NavLink>
           </li>
           <li>
             <NavLink to="/products">Products</NavLink>
-          </li>
-          <li>
-            <NavLink to="/productdetail">Product Detail</NavLink>
           </li>
           <li>
             <NavLink to="/editproduct">Edit Product</NavLink>
@@ -22,7 +21,7 @@ const Navbar = () => {
           </li>
         </ul>
       </nav>
-    </>
+    </header>
   )
 }
 

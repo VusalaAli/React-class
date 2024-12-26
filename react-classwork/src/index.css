@@ -78,5 +78,18 @@ li{
 }
 h1{
   color: red;
-  
+  font-family: "Dancing Script", serif;
+  font-style: italic;
+  font-weight: 800;
+}
+.icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+nav ul{
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
 }

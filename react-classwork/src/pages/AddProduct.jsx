@@ -2,9 +2,14 @@ import React from 'react'
 
 const AddProduct = () => {
   return (
-    <div>
-      Add Product
-    </div>
+    <>
+      <form action="">
+        <input type="text" name="" id="" />
+        <input type="text" name="" id="" />
+        <input type="text" name="" id="" />
+        <input type="number" name="" id="" />
+      </form>
+    </>
   )
 }
 
